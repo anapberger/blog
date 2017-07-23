@@ -6,12 +6,13 @@
 
 目录
 
-* 数学知识在前端开发中的应用
-    * [带你实现简单的几何图形](https://github.com/limingyang2012/blog/issues/2)
-
 * 如何在云服务上部署你的项目
     * [手把手教你部署你的项目](https://github.com/limingyang2012/blog/issues/3)
     * [SSH知识简介](https://github.com/limingyang2012/blog/issues/4)
+
+* 数学知识在前端开发中的应用
+    * [带你实现简单的几何图形](https://github.com/limingyang2012/blog/issues/2)
+
     
 * 好文收藏
     
