@@ -7,8 +7,8 @@
 目录
 
 * 如何在云服务上部署你的项目
-    * [手把手教你部署你的项目](https://github.com/limingyang2012/blog/issues/5)
-    * [基于webhook的自动部署](https://github.com/limingyang2012/blog/issues/3)
+    * [手把手教你部署你的项目](https://github.com/limingyang2012/blog/issues/3)
+    * [基于webhook的自动部署](https://github.com/limingyang2012/blog/issues/5)
     * [SSH知识简介](https://github.com/limingyang2012/blog/issues/4)
 
 * 数学知识在前端开发中的应用
