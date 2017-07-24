@@ -18,6 +18,14 @@
 * 好文收藏
     
 * 教程收藏
-    
+    * git教程
+        * [git - 简易指南](http://www.bootcss.com/p/git-guide/)
+        * [廖雪峰git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
+        * [pro git](http://iissnan.com/progit/)
+        * [git-recipes](https://github.com/geeeeeeeeek/git-recipes/wiki)
+    * ES2015教程
+        * [《Understanding ECMAScript 6》（简体中文版）](https://www.gitbook.com/book/oshotokill/understandinges6-simplified-chinese/details)
+        * [阮一峰ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+        * [升入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
 * 知识拓展
     
