@@ -4,6 +4,8 @@
 
 > 工作三个月来，觉得还是需要一个地方来记录自己的所学，所收获到的东西，作为笔记也好，作为总结也好，总归有一个可供翻阅的地方，偷个懒学学大牛们的玩法，就拿github来进行存储吧，简单方便，关键还免费。
 
+`由于刚开始写，可能很多东西没有添加完全，所以需要慢慢添加`
+
 目录
 
 * 如何在云服务上部署你的项目
@@ -24,8 +26,8 @@
         * [pro git](http://iissnan.com/progit/)
         * [git-recipes](https://github.com/geeeeeeeeek/git-recipes/wiki)
     * ES2015教程
-        * [《Understanding ECMAScript 6》（简体中文版）](https://www.gitbook.com/book/oshotokill/understandinges6-simplified-chinese/details)
+        * [Understanding ECMAScript 6 简体中文版](https://www.gitbook.com/book/oshotokill/understandinges6-simplified-chinese/details)
         * [阮一峰ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-        * [升入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
+        * [深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
 * 知识拓展
     
